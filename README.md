@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ishaan kohli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaan kohli" height="30" width="40" /></a>
-<a href="https://kaggle.com/ishaan kohli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishaan kohli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ishaan kohli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishaan kohli" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kohli-ishaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaan kohli" height="30" width="40" /></a>
+<a href="https://kaggle.com/ishaan kohli14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ishaan kohli" height="30" width="40" /></a>
+<a href="https://hackerrank.com/ishaankohli14?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishaan kohli" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
