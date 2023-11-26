@@ -30,8 +30,9 @@
 
 <p><img align="right" alt="ginga1402" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginga1402&theme=vuedark&layout=compact&bg_color=0D1117&hide_border=true&langs_count=10&count_private=true" />
 
-  
+
+
 
 
 ## 🔥 &nbsp;Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginga1402&&fire=pink&theme=vue-dark&background=0D1117&hide_border=true" alt="ginga1402" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginga1402&&fire=pink&theme=nightowl&background=0D1117&hide_border=true" alt="ginga1402" /></p>
