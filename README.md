@@ -1,7 +1,7 @@
 ![logo](https://github.com/Ginga1402/Ginga1402/blob/main/Ishaan_Profile.jpg)
 
 
-<h1 align="center">Hi , I'm Ishaan Kohli, guys!👋></h1>
+<h1 align="center">Hi , I'm Ishaan Kohli, guys!👋</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/Ginga1402/Ginga1402/assets/130181481/2ba7ac77-c34b-49b3-bd8c-4b91a46acb52" >
