@@ -20,9 +20,9 @@ I'm a passionate Data Science enthusiast based in New Delhi, India. Currently, I
 
 **Conversational AI:** I specialize in developing Chatbots that can hold meaningful conversations. I'm well-versed in leveraging cutting-edge technologies such as BERT, LLM's, and SLM's to enhance the conversational capabilities of my bots.
 
-**Tech Stack:** I'm constantly exploring and utilizing the latest orchestration frameworks like Langchian and LLamaindex to streamline and optimize my projects.
+**Tech Stack:** I'm constantly exploring and utilizing the latest orchestration frameworks like [Langchian](https://www.langchain.com/) and [LLamaindex](https://www.llamaindex.ai/) to streamline and optimize my projects.
 
-**GitHub Contributions:** I'm an active contributor on GitHub, where I regularly share my projects, code snippets, and insights. Feel free to check out my repositories and explore the work I'm passionate about.
+**GitHub Contributions:** I'm an active contributor on GitHub, where I regularly share my projects, code snippets, and insights. Feel free to check out my [repositories](https://github.com/Ginga1402?tab=repositories) and explore the work I'm passionate about.
 
 
 ### Let's Collaborate!
