@@ -32,9 +32,9 @@ I'm always open to collaborations and eager to connect with fellow enthusiasts a
 Feel free to reach out to me, and let's create something amazing together!
 
 <p align="left">
-<a href="https://linkedin.com/in/ishaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ishaab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishaab" height="30" width="40" /></a>
-<a href="https://discord.gg/asdffg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdffg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kohli-ishaan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaan" height="30" width="40" /></a>
+<a href="https://hackerrank.com/ishaankohli14?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ishaab" height="30" width="40" /></a>
+<a href="https://discord.gg/2mpMM4ZQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="asdffg" height="30" width="40" /></a>
 </p>
 
 
@@ -58,10 +58,25 @@ Feel free to reach out to me, and let's create something amazing together!
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginga1402" alt="Ginga1402" /></a> </p>
+## 🔥 Code Trek: Journey Through Learning 🌟🔍
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ginga1402&show_icons=true&locale=en&layout=compact" alt="ginga1402" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ginga1402&show_icons=true&locale=en" alt="ginga1402" /></p>
+<p align="left"> 
+    <img src="https://github-profile-trophy.vercel.app/?username=ginga1402&theme=nightowl&row=1&column=7&no-bg=true&no-frame=true" alt="Ginga1402" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginga1402&" alt="ginga1402" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ginga1402&show_icons=true&locale=en&layout=compact&theme=nightowl&background=0D1117&hide_border=true" alt="ginga1402" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ginga1402&show_icons=true&locale=en&theme=nightowl&background=0D1117&hide_border=true" alt="ginga1402" /></p>
+
+
+## 🔥 &nbsp;Streak Stats
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ginga1402&theme=nightowl&background=0D1117&hide_border=true" alt="ginga1402" /></p>
+
+
+
+
+
+
