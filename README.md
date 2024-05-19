@@ -13,7 +13,7 @@
 
 
 
-I'm a passionate Data Science enthusiast based in New Delhi, India. Currently, I'm immersed in the fascinating world of Artificial Intelligence, working as an AI Developer and Data Scientist at **[Kiya.ai](https://www.kiya.ai/).** My focus lies in crafting intelligent conversational experiences through Chatbots.
+I'm a passionate Data Science enthusiast based in New Delhi, India. Currently, I'm immersed in the fascinating world of Artificial Intelligence, working as an AI Developer and Data Scientist at. My focus lies in crafting intelligent conversational experiences through Chatbots.
 
 ### What I'm into:
 
