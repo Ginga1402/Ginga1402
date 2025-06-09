@@ -22,7 +22,7 @@ What excites me most is the intersection of cutting-edge LLMs, custom orchestrat
 
 **Conversational AI Specialist:** From BERT to SBERT, from GPT to custom SLMs — I've architected and deployed bots that not only understand context but carry real, flowing dialogue. I work end-to-end: prompt engineering, fine-tuning, memory management, and deployment.
 
-**RAG + LLMs + Vector DBs = ❤️** I engineer Retrieval-Augmented Generation (RAG) pipelines using tools like Langchain, LlamaIndex, FAISS, Pinecone, and Chroma — helping enterprise clients deliver grounded, domain-specific responses with real-time document intelligence.
+**RAG + LLMs + Vector DBs = ❤️ :** I engineer Retrieval-Augmented Generation (RAG) pipelines using tools like Langchain, LlamaIndex, FAISS, Pinecone, and Chroma — helping enterprise clients deliver grounded, domain-specific responses with real-time document intelligence.
 
 **Multiverse of Integration:** AI isn’t just for the web anymore. I’ve built on-prem GenAI solutions, integrated AI in Unity & Unreal Engine (yes, gaming!), and even deployed conversational experiences in the Metaverse.
 
@@ -39,8 +39,11 @@ I'm always open to collaborations and eager to connect with fellow enthusiasts a
 
 Feel free to reach out to me, and let's create something amazing together!
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]([https://discord.gg/ishaan](https://discord.gg/2mpMM4ZQ)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ishaan](https://www.linkedin.com/in/kohli-ishaan/)) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ishaan) [![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)]([https://linkedin.com/in/ishaan](https://hackerrank.com/ishaankohli14?hr_r=1))
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2mpMM4ZQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kohli-ishaan/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ishaan)
+[![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white)](https://hackerrank.com/ishaankohli14?hr_r=1)
 
 
 
