@@ -70,7 +70,8 @@ Feel free to reach out to me, and let's create something amazing together!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ginga1402&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="ginga1402" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ginga1402&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="ginga1402" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ginga1402&show_icons=true&locale=en&theme=blue-green&background=0D1117&hide_border=true" alt="ginga1402" /></p>
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Ginga1402&theme=github_dark&hide_border=false)<br/>
 
